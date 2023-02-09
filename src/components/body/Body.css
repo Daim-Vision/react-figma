@@ -1,0 +1,52 @@
+.number {
+    display: block;
+    font-size: 400px;
+    color: rgb(220, 105, 10);
+    margin: 5%;
+    margin-top: 0%;
+    text-align: center;
+    background-color: none;
+}
+
+.buttons > button {
+    width: 400px;
+    height: 100px;
+    margin: 20px;
+    border-radius: 5px;
+    border: none;
+    font-size: 30px;
+    color: white;
+    
+}
+
+.main {
+   margin-left: none;
+   margin-top: none;
+   background-color: none;
+   padding-top: 5%;
+}
+
+.buttons {
+    background-color: none;
+    width: 95%;
+    margin: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+.btn1 {
+    background-color: rgb(47, 47, 250);
+    
+}
+
+.btn2 {
+    background-color: rgb(255, 113, 5);
+}
+
+.btn3 {
+    background-color: rgb(166, 166, 166);
+}
+
+.empty {
+    height: 300px;
+}

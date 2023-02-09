@@ -1,0 +1,21 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: none
+}
+
+.Header > a {
+    font-size: 25px;
+    margin-top: 2%;
+    text-decoration: none;
+}
+
+.home {
+    margin-left: 400px;
+}
+
+.logo {
+    background-color: none;
+    width: 20%;
+}
